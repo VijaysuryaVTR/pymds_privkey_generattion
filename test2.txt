@@ -1,1 +1,0 @@
- we can achieve shorter and more organized table names for our PROD environment.
